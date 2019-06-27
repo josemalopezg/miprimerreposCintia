@@ -1,0 +1,3 @@
+Este es el archivo que vamos a utilizar para el índice
+Añadiremos las líneas que vayamos necesitando
+Con este archivo indexaremos el repositorio
