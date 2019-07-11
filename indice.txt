@@ -1,3 +1,10 @@
 Este es el archivo que vamos a utilizar para el índice
 Añadiremos las líneas que vayamos necesitando
-Con este archivo indexaremos el repositorio
+Con este archivo indexaremos el repositorio.
+
+Y ahí va un poema:
+
+Como tu ya no me quieres,
+ahora quiero a los animales.
+Y al animal que más quiero,
+es al buitre carroñero.
